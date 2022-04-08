@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryakrm
+- 👋 Hi, I’m Arya Karimi
 - 👀 I’m interested in Web Developing
 - 📫 How to reach me: devaryakrm@gmail.com
 
