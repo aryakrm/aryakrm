@@ -40,8 +40,8 @@
 <div>
                 <h1>🌱 I’m currently learning:</h1>
                 <ul style="font-size: 1.5rem">
-                    <li>Node.js(Advanced)</li>
-                    <li>Three.js</li>
+                    <li>Python</li>
+                    <li>Django</li>
                 </ul>
             </div>
               <div>
