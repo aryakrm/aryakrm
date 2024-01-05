@@ -54,18 +54,10 @@
                 >
                     <li>
                         <a
-                            href="https://github.com/aryakrm/lemonAdler.git"
-                            style="text-decoration: none; color: brown"
-                        >
-                            LemonAdler-9 Architecture Website
-                        </a>
-                    </li>
-                    <li>
-                        <a
                             href="https://github.com/aiman99aleryany/airvnv.git"
                             style="text-decoration: none; color: brown"
                         >
-                            AirVnV
+                            Hizmet Piri's Official Website
                         </a>
                     </li>
                 </ul>
