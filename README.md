@@ -17,7 +17,7 @@
                 <span style="color: #5651e5">
                         I am a
                 </span>
-                        <span > Full-Stack(Frontend Heavy) Web Developer</span>
+                        <span > Front-End Web Developer and Artificial Intelligence Engineering Student In Cyprus International University</span>
                 </div>
             </nav>
         </header>
